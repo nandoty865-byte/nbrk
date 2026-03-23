@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Python virtual environments
+venv/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Build artifacts
+/dist/
+/build/
+*.o
+*.exe
+*.class
+*.out
+*.app
+*.dll
